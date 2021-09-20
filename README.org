@@ -1,0 +1,17 @@
+* Overview
+  The codes in this repository contain the codes and data that are required to reproduce the figures in the article: "Network rewiring promotes cooperation in an aspirational learning model"; A Pal, S Sengupta.
+  The figures presented in the article have a corresponding folder in this repository.
+
+* Plotting
+  *Python files with structure plot_fig.py generate the figures from the data files (.npz format) present in the corresponding folders.*
+  /The data file corresponding to figure 1 has not been uploaded due to file size constraint./
+  The following folders do not have a plot function because only a single realization is required to produce the plots:
+  Fig3, Fig4, Fig6, Fig8, Fig9, Fig11
+  Thus, to generate the plots for the above figures, run sim_.py*
+
+* Simulating
+  *Python files with structure sim_.py inside each folder simulates the model and generates both data files and plots*
+
+* Contact information 
+*** Anuran Pal: [[mailto:anuranpal98@gmail.com][anuranpal98@gmail.com]]
+*** Supratim Sengupta : [[mailto:supratim.sen@gmail.com][supratim.sen@gmail.com]]
