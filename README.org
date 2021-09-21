@@ -4,7 +4,6 @@
 
 * Plotting
   *Python files with structure plot_fig.py generate the figures from the data files (.npz format) present in the corresponding folders.*
-  /The data file corresponding to figure 1 has not been uploaded due to file size constraint./
   The following folders do not have a plot function because only a single realization is required to produce the plots:
   Fig3, Fig4, Fig6, Fig8, Fig9, Fig11
   Thus, to generate the plots for the above figures, run sim_.py*
