@@ -261,11 +261,11 @@ for bet in beta_arr:
                         top=0.93, 
                         wspace=0.1, 
                         hspace=0.35)
-    plt.savefig('LinkPayAspSatAct_LI_resat'
-                +str(re)+'_hab'+str(hab)+'.tif', dpi=300)
+    #plt.savefig('LinkPayAspSatAct_LI_resat'
+     #           +str(re)+'_hab'+str(hab)+'.tif', dpi=300)
     plt.show()
 
-
+'''
 np.savez("LI_LinkDegSatactPayAsp_arrays_beta"
          +str(bet)+"_hab"+str(hab)+"_re"+str(re)+".npz",
 
@@ -278,3 +278,4 @@ np.savez("LI_LinkDegSatactPayAsp_arrays_beta"
 
          CC=CC_arr, CD=CD_arr, DD=DD_arr,
          Cdeg=Cdeg_arr, Ddeg=Ddeg_arr)
+'''

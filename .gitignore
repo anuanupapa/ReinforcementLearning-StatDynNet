@@ -7,3 +7,7 @@ Fig11/varyhab
 0.2_0.8*
 0.8_0.2*
 MN_lowhab_original.py
+*.tif
+*.tiff
+*.jpg
+*.jpeg
